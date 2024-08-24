@@ -1,4 +1,4 @@
-# CBest Shoes Shopping Website
+# Best Shoes Shopping Website
 Embarking on the journey to enhance your web development skills through hands-on projects is an exciting and rewarding experience. This approach not only solidifies your understanding of fundamental concepts but also exposes you to real-world challenges and problem-solving scenarios. By engaging in a variety of projects, from simple static websites to complex, dynamic web applications, you will gain practical experience in HTML, CSS, JavaScript, and backend technologies. Each project serves as a stepping stone, building your confidence and competence in coding, design, and user experience.
 
 Live Demo - https://newworldera.github.io/BestShoesShoppingWebsite/
@@ -15,8 +15,10 @@ Telegram-https://t.me/+t73Q26ORYWRkYWQ1
 Whatsapp- https://whatsapp.com/channel/0029VafLdr6EawdzpspHgb0O
 
 # Output 1
-
-
+![Screenshot 2024-08-25 034017](https://github.com/user-attachments/assets/e8e59e14-94c9-4840-8b4e-48948c5bda59)
 
 # Output 2 
+![Screenshot 2024-08-25 034050](https://github.com/user-attachments/assets/a568fe38-25ce-42c9-bf34-92ddaff53263)
 
+# Output 3
+![Screenshot 2024-08-25 034111](https://github.com/user-attachments/assets/148b9b0b-64fd-427d-a89a-70b2f86ef107)
